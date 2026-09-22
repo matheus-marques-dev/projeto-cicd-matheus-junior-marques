@@ -1,4 +1,4 @@
-# Projeto CI/CD Base
+# Projeto CI/CD Base Matheus Junior Marques
 
 Um projeto base para aprender **Integração Contínua (CI)** e **Entrega Contínua (CD)** utilizando Git, GitHub, GitHub Actions e Vercel.
 
